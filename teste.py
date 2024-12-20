@@ -5,4 +5,6 @@ c = a+b
 l=[a,b,c]
 print(f"todos os valores são: {l}")
 
+k = {"numeros": l}
+
 print(c)
